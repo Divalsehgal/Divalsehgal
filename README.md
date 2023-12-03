@@ -10,7 +10,7 @@ React, NextJs
 💻 Backend :
 Node.js, Express
 
-📊 Database Dalliance:
+📊 Database :
 MongoDB, MySql, FireBase, PostgreSQL
 
 🌈 DSA Explorer:
