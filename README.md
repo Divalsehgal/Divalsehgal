@@ -26,3 +26,5 @@ Let's Elevate Our Coffee Chat
 Ready for a tech discussion, collaborative brainstorming, or exchanging tales of coding conquests? Drop me an email or connect on LinkedIn. Together, let's not just shrink but also optimize the coding community, scaling up new ideas and refining the tools we use. 🚀
 
 Here's to another year of coding adventures! 🚀
+
+![](https://komarev.com/ghpvc/?username=Divalsehgal)
