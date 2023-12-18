@@ -1,4 +1,4 @@
-Hey there! 👋 I'm Dival Sehgal, and buckle up for a vibrant journey through my GitHub world!
+Hey there! 👋 I'm Dival Sehgal.
 
 🚀 Skills:
 JavaScript (React is my jam), HTML, CSS (because aesthetics matter), MongoDB (I'm fluent in database speak), Git (version control enthusiast)
