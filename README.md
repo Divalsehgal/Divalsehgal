@@ -8,7 +8,7 @@ My Tech Playground
 React, NextJs 
 
 💻 Backend :
-Node.js, Express
+Node.js, Express , Java
 
 📊 Database :
 MongoDB, MySql, FireBase, PostgreSQL
