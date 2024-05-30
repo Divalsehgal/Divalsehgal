@@ -1,13 +1,13 @@
 Hey there! 👋 I'm Dival Sehgal.
 
 🚀 Skills:
-JavaScript , HTML, CSS , MongoDB , Git
+JavaScript , Golang , HTML, CSS , MongoDB , Git
 
 🎮 Frontend :
 React, NextJs 
 
 💻 Backend :
-Node.js, Express , Java
+Node.js, Express , GoLang Java
 
 📊 Database :
 MongoDB, MySql, FireBase, PostgreSQL
