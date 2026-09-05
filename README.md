@@ -22,7 +22,6 @@ Senior Software Engineer with 6+ years building scalable full-stack applications
 - Data-driven frontend experiences (React, Next.js, GraphQL) for a global **healthcare platform** at **Philips Healthcare**
 - Serverless APIs & data pipelines with **Python, AWS Lambda, AppSync**
 - Leading a **3-engineer team** on a Contentful CMS migration for **Princess Auto**, with AI-assisted engineering workflows (LLMs, MCP servers, reusable prompts)
-- A TypeScript monorepo with shared design tokens & component libraries (Storybook)
 
 ### 🚀 Featured projects
 
