@@ -31,7 +31,7 @@ Senior Software Engineer with 6+ years building scalable full-stack applications
 | [**GameRoom**](https://github.com/Divalsehgal/mutiplayer-game-arena) | Real-time multiplayer gaming platform — Next.js, TypeScript, Socket.io, Express, Zustand, Framer Motion, Google OAuth |
 | [**front-end-questions**](https://github.com/Divalsehgal/front-end-questions) | Frontend interview prep & reference notes |
 | [**excel-plus**](https://github.com/Divalsehgal/excel-plus) | JavaScript-based spreadsheet tooling |
-| [**yt-bookmarker**](https://github.com/Divalsehgal/yt-bookmarker) | Bookmarking tool for YouTube |
+| [**yt-bookmarker**](https://github.com/Divalsehgal/yt-bookmarker) | Saving Bookmarks and extracting transcript tool for YouTube |
 
 ### 🛠️ Tech stack
 
